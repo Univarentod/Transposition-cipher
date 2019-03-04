@@ -1,2 +1,5 @@
 # Transposition-cipher
-Including encrytion and decryption
+
+The Transposition cipher's wiki webpage:
+
+https://en.wikipedia.org/wiki/Transposition_cipher
